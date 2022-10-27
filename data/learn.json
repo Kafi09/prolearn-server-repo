@@ -1,0 +1,96 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "C is a general-purpose programming language, developed in 1972, and still quite popular.",
+        "author": {
+            "name": "Learn C",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618",
+        "details": " Loops: Loops can execute a block of code as long as a specified condition is reached Loops are handy because they save time reduce errors, and they make code more readable  While Loop: The while loop loops through a block of code as long as a specified condition is true.   Do/While Loop: The do/while loop is a variant of the while loop. This loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true. "
+    },
+
+    {
+        "_id": "8fjn4fg48a5c45675261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 688,
+        "title": "C++ is used to create computer programs, and is one of the most used language in game development.",
+        "author": {
+            "name": "Learn C++",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "details": " C++ Classes/Objects: C++ is an object-oriented programming language.Everything in C++ is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.Attributes and methods are basically variables and functions that belongs to the class. These are often referred to as 'class members'. A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a 'blueprint' for creating objects."
+    },
+
+    
+
+    {
+        "_id": "7njxvbg675261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 228,
+        "title": "Kotlin is a modern, trending programming language.Kotlin is easy to learn, especially if you already know Java (it is 100% compatible with Java).",
+        "author": {
+            "name": "Learn Kotlin",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://www.peerbits.com/static/f1937bb54841a042d3b7a1100318ca3b/189bc/kotlin.jpg",
+        "details": " Kotlin when: Instead of writing many if..else expressions, you can use the when expression, which is much easier to read. It is used to select one of many code blocks to be executed.   Kotlin IDE: The easiest way to get started with Kotlin, is to use an IDE.An IDE (Integrated Development Environment) is used to edit and compile code.In this chapter, we will use IntelliJ (developed by the same people that created Kotlin) which is free to download from https: //www.jetbrains.com/idea/download/."
+    },
+
+    {
+        "_id": "3gdjbjfa5c45675261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.1,
+            "badge": "Excellent"
+        },
+        "total_view": 186,
+        "title": "Go is a popular programming language.Go is used to create computer programs.",
+        "author": {
+            "name": "Learn Go",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://contentstatic.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg?35743",
+        "details": " Go Install: You can find the relevant installation files at https: //golang.org/dl/. Follow the instructions related to your operating system. To check if Go was installed successfully, you can run the following command in a terminal window.    Go Install IDE: An IDE (Integrated Development Environment) is used to edit AND compile the code.Popular IDE's include Visual Studio Code (VS Code), Vim, Eclipse, and Notepad. These are all free, and they can be used to both edit and debug Go code."
+    }
+
+]

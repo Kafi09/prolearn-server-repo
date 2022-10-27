@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Learn C"
+    },
+    {
+        "id": "02",
+        "name": "Learn C+"
+    },
+    {
+        "id": "03",
+        "name": "Learn Java"
+    },
+    {
+        "id": "04",
+        "name": "Learn Kotlin"
+    },
+    {
+        "id": "05",
+        "name": "Learn Go"
+    },
+    {
+        "id": "06",
+        "name": "All Courses"
+    }
+]
