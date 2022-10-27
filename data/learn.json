@@ -45,7 +45,28 @@
         "details": " C++ Classes/Objects: C++ is an object-oriented programming language.Everything in C++ is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.Attributes and methods are basically variables and functions that belongs to the class. These are often referred to as 'class members'. A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a 'blueprint' for creating objects."
     },
 
-    
+    {
+        "_id": "5dfb4f5c45675261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_view": 298,
+        "title": "Java is a popular programming language, created in 1995. It is owned by Oracle, and more than 3 billion devices run Java.",
+        "author": {
+            "name": "Learn Java",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://img.freepik.com/free-vector/branding-identity-corporate-c-logo-vector-design-template_460848-13936.jpg?w=740&t=st=1666807884~exp=1666808484~hmac=1e6cfd7388ad7db8b0630da851d1a0b7c6b84af520f2c0e0cfc050f7a8438618"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Java-Debugging-Tips-881x441.jpg/800px-Java-Debugging-Tips-881x441.jpg",
+        "details": " Java Methods: A method is a block of code which only runs when it is called.You can pass data, known as parameters, into a method.Methods are used to perform certain actions, and they are also known as functions.Why use methods? To reuse code: define the code once, and use it many times.  Create a Method: A method must be declared within a class. It is defined with the name of the method, followed by parentheses (). Java provides some pre-defined methods, such as System.out.println(), but you can also create your own methods to perform certain actions:"
+ },
 
     {
         "_id": "7njxvbg675261f11c2ab6a",
